@@ -1,0 +1,40 @@
+main{
+  font-size: 20px;
+  background-color: rgb(14, 156, 156);
+  max-width: 70%;
+}
+
+h1{
+  font-size: 8rem;
+  letter-spacing: -.02rem;
+  text-align: center;
+}
+h2{
+  font-size: 6rem;
+}
+h3{
+  font-size: 4em;
+}
+
+h4,
+h5,
+h6,
+p {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  line-height: 0.95;
+  background-color: rgba(0, 0, 255, 0.188);
+  color: white;
+}
+
+.measure {
+max-width: 66ch;
+}
+
+.indent {
+  text-indent: 2em;
+}
+.leading{
+  line-height: 1.8;
+}
