@@ -26,6 +26,8 @@ h2{
 
 h3{
   letter-spacing: .02rem;
+    line-height: 1.1rem;
+
   font-size: 1.1rem;
   padding: 0.9rem;
   text-align: center;
@@ -42,8 +44,11 @@ p {
   color: whitesmoke;
 }
 
-.measure {
-max-width: 66ch;
+.italic {
+  font-family: "standard-webfont-italic", Helvetica, Arial, sans-serif;
+  font-size: inherit;
+  line-height: inherit;
+  color: whitesmoke;
 }
 
 .indent {
