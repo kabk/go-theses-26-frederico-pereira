@@ -1,19 +1,35 @@
 main{
-  font-size: 20px;
-  background-color: rgb(14, 156, 156);
-  max-width: 70%;
+  font-size: 15pt;
+  line-height: 1.7rem;
+  max-width: 100%;
+  font-family: standard-webfont, Helvetica, Arial, sans-serif;
+  color: whitesmoke;
 }
 
 h1{
-  font-size: 8rem;
-  letter-spacing: -.02rem;
+  font-size: 1.5rem;
+  letter-spacing: .02rem;
   text-align: center;
+  font-weight: bold;
+  font-family: Basteleur-moonlight, Helvetica, Arial, sans-serif;
+  padding: 0.5rem;
+  color: whitesmoke;
+  margin-bottom: 1rem;
 }
+
 h2{
-  font-size: 6rem;
+  letter-spacing: .02rem;
+  font-size: 1.25rem;
+
+  color: whitesmoke;
 }
+
 h3{
-  font-size: 4em;
+  letter-spacing: .02rem;
+  font-size: 1.1rem;
+  padding: 0.9rem;
+  text-align: center;
+  color: whitesmoke;
 }
 
 h4,
@@ -23,9 +39,7 @@ p {
   font-family: inherit;
   font-size: inherit;
   font-weight: inherit;
-  line-height: 0.95;
-  background-color: rgba(0, 0, 255, 0.188);
-  color: white;
+  color: whitesmoke;
 }
 
 .measure {
@@ -36,5 +50,5 @@ max-width: 66ch;
   text-indent: 2em;
 }
 .leading{
-  line-height: 1.8;
+  line-height: 1.8rem;
 }

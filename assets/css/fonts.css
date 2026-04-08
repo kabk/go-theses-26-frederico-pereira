@@ -1,7 +1,40 @@
+
 @font-face {
-  font-family: "ABCRepro-Medium";
+  font-family: "Basteleur-moonlight";
   font-weight: normal;
   font-style: normal;
   font-display: auto;
-  src: url("../fonts/ABCRepro-Medium-Trial.woff") format("woff"), url("../fonts/ABCRepro-Medium-Trial.woff2") format("woff2");
+  src: url("../fonts/Basteleur-Moonlight.woff") format("woff"), url("../fonts/Basteleur-Moonlight.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "standard-webfont";
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+  src: url("../fonts/standard-book-webfont.woff") format("woff"), url("../fonts/standard-book-webfont.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "standard-webfont-italic";
+  font-weight: italic;
+  font-style: normal;
+  font-display: auto;
+  src: url("../fonts/standard-book-italic-webfont.woff") format("woff"), url("../fonts/standard-book-italic-webfont.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "standard-webfont-bold";
+  font-weight: bold;
+  font-style: normal;
+  font-display: auto;
+  src: url("../fonts/standard-bold-webfont.woff") format("woff"), url("../fonts/standard-bold-webfont.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "standard-webfont-bold-italic";
+  font-weight: bold;
+  font-style: italic;
+  font-display: auto;
+  src: url("../fonts/standard-bold-italic-webfont.woff") format("woff"), url("../fonts/standard-bold-italic-webfont.woff2") format("woff2");
 }
