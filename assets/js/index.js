@@ -17,3 +17,8 @@ if (rotatingImage) {
     rotatingImage.style.transform = `translate(-50%, -50%) rotate(${rotation}deg)`;
   });
 }
+
+
+
+
+
